@@ -9,10 +9,8 @@
 
 
 
-<div style="width: 100%;">
-  <img position=absolute align=left src="https://github-readme-stats.vercel.app/api?username=pedr-moura&show_icons=true&theme=onedark&rank_icon=github&text_color=ffffff&icon_color=fbaf4d" alt="Estatísticas do GitHub de Pedro">
-<br>
-  <img position=absolute align=rigth src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr-moura&theme=onedark&text_color=ffffff&icon_color=fbaf4d&layout=compact" alt="Linguagens mais utilizadas por Pedro">
+<div align="center">
+  <img position=absolute src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr-moura&theme=onedark&text_color=ffffff&icon_color=fbaf4d&layout=compact" alt="Linguagens mais utilizadas por Pedro">
 </div>
 <br><br>
 
@@ -20,8 +18,8 @@
 
 
 <!-- Informações Pessoais -->
-<p align="center">
+<div align="center">
   
   [![Email](https://img.shields.io/badge/pedrosousavn%40gmail.com-%23fbaf4d?style=flat-square&logo=gmail)](mailto:pedrosousavn@gmail.com)
   
-</p>
+</div>
