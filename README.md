@@ -14,7 +14,7 @@
 <br>
   <img position=absolute align=rigth src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr-moura&theme=onedark&text_color=ffffff&icon_color=fbaf4d&layout=compact" alt="Linguagens mais utilizadas por Pedro">
 </div>
-<br>
+<br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedr-moura&bg_color=292c34&color=ffffff&line=fbaf4d&point=f2ac57&area=true&hide_border=true&radius=10&area_color=6c5131)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
