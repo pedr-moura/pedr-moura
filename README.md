@@ -10,5 +10,5 @@
 
 
 <div align="center">
-  <img position=absolute src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr-moura&theme=onedark&text_color=588afa&icon_color=588afa&layout=compact" alt="Linguagens mais utilizadas">
+  
 </div>
